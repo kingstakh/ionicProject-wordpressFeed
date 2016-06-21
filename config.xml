@@ -70,9 +70,9 @@
   <plugin name="com.rjfun.cordova.iad" />
   <plugin name="cordova-plugin-admobpro" />
   <plugin name="cordova-plugin-whitelist" />
-  <plugin name="cordova-plugin-email-composer" spec="https://github.com/katzer/cordova-plugin-email-composer.git#0.8.2" />
+  <plugin name="cordova-plugin-email-composer"  />
   <plugin name="org.pushandplay.cordova.apprate"  source="pgb" />
-  <plugin name="com.ionic.keyboard" spec="https://github.com/driftyco/ionic-plugins-keyboard.git"/>
+  <plugin name="com.ionic.keyboard" />
   <plugin name="cordova-plugin-splashscreen" />
   <plugin name="cordova-plugin-x-socialsharing" />
   <plugin name="cordova-plugin-inappbrowser"  />
