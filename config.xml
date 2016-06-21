@@ -70,7 +70,7 @@
   <plugin name="cordova-plugin-admobpro" spec="^2.8.3"/>
   <plugin name="cordova-plugin-whitelist" spec="^1.0.0"/>
   <plugin name="cordova-plugin-email-composer" spec="https://github.com/katzer/cordova-plugin-email-composer.git#0.8.2" />
-  <gap:plugin name="org.pushandplay.cordova.apprate" spec="^1.1.7"/>
+  <!--plugin name="org.pushandplay.cordova.apprate" spec="^1.1.7"/-->
   <plugin name="com.ionic.keyboard" spec="https://github.com/driftyco/ionic-plugins-keyboard.git"/>
   <plugin name="cordova-plugin-splashscreen" spec="3.0.0"/>
   <plugin name="cordova-plugin-x-socialsharing" spec="^5.0.10" />
